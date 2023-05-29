@@ -3,7 +3,7 @@ import styles from '../style';
 import FeedbackCard from './FeedbackCard'
 
 const Testimonials = () => (
-  <section id="client" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
+  <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
     {/* TODO */}
     <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] blue__gradient" />
 
